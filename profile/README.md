@@ -25,7 +25,7 @@ Hey! I'm Sir_BananaCat, but please just call me Banana. I hope you have a great 
 ### Squibs  
 [![Twitch Status](https://img.shields.io/twitch/status/SquibsLand)](https://www.twitch.tv/squibsland)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcPjBO_m2JXhktEKpAr_qWw)](https://www.youtube.com/@SquibsLand)
-[![GitHub User's stars](https://img.shields.io/github/stars/TheSquiddyLink)](https://github.com/TheSquiddyLink)
+[![GitHub User's stars](https://img.shields.io/github/stars/SquibsLand)](https://github.com/SquibsLand)
 
 Hello, and welcome to Squibs Land! I am Squibs, the person who runs these streams. I play splatoon and zelda games, and enjoy chatting with the rest in this server. This channel and the discord server are LGBTQ+ and Furry supportive, as well as anything else! I hope you enjoy your stay!
 
